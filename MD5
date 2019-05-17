@@ -1,0 +1,17 @@
+10ea61bbd50fb05047e108249c95df28 *DESCRIPTION
+8c11940fdcc91ad36b7f51f3329e477e *NAMESPACE
+e96d90d6f617594eb35db7b26e353956 *NEWS.md
+f3977e6bb30a788ba128c9f378e8cfd8 *R/CAR_cov_teeth.R
+2d0a8242d765e4df5636870bd7c5277b *R/MC_var_yibar_mis.R
+7f373660b4b8d34cbb2ba84d34e30e3e *R/SMARTp-class.R
+1f54be512d8524b05107e19c129353d7 *R/SampleSize_SMARTp.R
+6628a008b742912bd2b985194ff53717 *R/print.R
+97ae76a37ce9eb654a27d043c1c8a9dc *R/summary.R
+87fd6f8095390f83bdf6ead1ae6a99f4 *R/utils.R
+19573968c6b22efa1804cebd7ef6c012 *README.md
+29a8ac3fd16632f8abba4ce51211dfad *man/CAR_cov_teeth.Rd
+9636a19bd03a6c2e5e3319226488e53d *man/MC_var_yibar_mis.Rd
+3d64f509eb55ce85db01a2f8ada081a5 *man/SMARTp-class.Rd
+eddcad72952c22cbe43d29ca92dacd34 *man/SampleSize_SMARTp.Rd
+f9d3c2136803cc0b4e61ab5ba85fe3ad *man/print.SMARTp.Rd
+2f921664b8eb979bb99b7f3884a9763e *man/summary.SMARTp.Rd
